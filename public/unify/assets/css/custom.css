@@ -1,0 +1,6 @@
+/*reduce rounded image size on the index page and reduce top padding*/
+.img-thumbnail {
+    
+    height: 300px;
+}
+
